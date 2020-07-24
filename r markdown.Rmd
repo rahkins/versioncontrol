@@ -1,0 +1,14 @@
+---
+title: "r markdown"
+author: "me"
+date: "24/07/2020"
+output: pdf_document
+---
+
+##The First attempt
+This is my first attempt to use r markdown
+```{r}
+print("Hello R Markdown")
+```
+I hope this is a successful attempt.
+**heyyo**
